@@ -1,0 +1,5 @@
+C:\Users\marcbei\Desktop\Assignment2\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+C:\Users\marcbei\Desktop\Assignment2\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+C:\Users\marcbei\Desktop\Assignment2\Assignment2\Assignment2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\marcbei\Desktop\Assignment2\Assignment2\Assignment2\obj\x86\Debug\Assignment2.exe
+C:\Users\marcbei\Desktop\Assignment2\Assignment2\Assignment2\obj\x86\Debug\Assignment2.pdb
